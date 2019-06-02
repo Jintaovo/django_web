@@ -1,2 +1,1 @@
-# django_web
-# django_web
+my little django web
